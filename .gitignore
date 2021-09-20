@@ -14,6 +14,7 @@ log_bak
 build/
 develop-eggs/
 dist/
+D8/
 downloads/
 eggs/
 .eggs/
